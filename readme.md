@@ -1,0 +1,3 @@
+- https://spiffe.io/docs/latest/try/getting-started-k8s/
+- https://minikube.sigs.k8s.io/docs/start/
+- https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
